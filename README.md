@@ -1,12 +1,14 @@
 # Youtube clone project
 
+https://euneunyoutube.netlify.app/
+
 ## 사용기술
 
-React
-React-Router
-React-Query
-Typescript
-Tailwindcss
+- React
+- React-Router
+- React-Query
+- Typescript
+- Tailwindcss
 
 ## API
 
