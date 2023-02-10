@@ -1,0 +1,841 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "FObdH3TQCLIFqwuLqjOBT3ZM8Xk",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vkvbREc2l4mKOpKqD2TnLWk4Q_M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mgbZunbhsX0"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-15T15:45:01Z",
+                "channelId": "UCBVjMGOIkavEAhyqpxJ73Dw",
+                "title": "Charlie Puth - Perfect Pitch",
+                "description": "Charlie Puth explains how sound and music are an essential part of how he experiences the world. Available with YouTube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maroon 5",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-15T15:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rST4rXdA1d7lHOb5RzPfBxofmW4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4BwO2MQmuI4"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-11T06:10:39Z",
+                "channelId": "UCPRPt1CQoHxxv7RhMyo7udQ",
+                "title": "놀 권리 인식개선_놀면서 자란다.",
+                "description": "어릴 적, 비가 오던 날이면 이런 경험이 있지 않나요? 빗물 웅덩이에 발을 담가볼까? 말까? 발을 살짝~ 담가보기도 하고, 엄마나 아빠 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4BwO2MQmuI4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4BwO2MQmuI4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4BwO2MQmuI4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "아동권리보장원",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-11T06:10:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OxfydHCgRHWbmcT1ag3yRrVX6qA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CWrDt-r-IJU"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-28T23:00:03Z",
+                "channelId": "UCj8zZ1a8Lqtj4wY2bHbcIaQ",
+                "title": "안아프고 건겅하려면 집에 두지 말아야 할 물건 4가지 #shorts",
+                "description": "풀 영상 클릭 ↓ ↓ ↓ https://www.youtube.com/watch?v=gVmop5vt2ns #집정리 #집정리버리기 #좋은습관만들기 구독: http://bit.ly/정 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CWrDt-r-IJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CWrDt-r-IJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CWrDt-r-IJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "정라레_Lifestyle Doctor",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-28T23:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KM12M3oawmt8GSsrBUI_yElizGQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DefHH51T3d4"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-24T01:00:04Z",
+                "channelId": "UCNE1pYj5_Hmnaz1xnnJi_dQ",
+                "title": "💸킹윤정님 구전설화 추가! 도경완 회식비 한방에 씨원하게 결제해줬던 장회장님 l 장윤정의 도장깨기",
+                "description": "장윤정의 도장깨기- 전 국민 가수 만들기!✨ 매주 목요일 저녁 7시 30분 본방사수 장윤정의 도장깨기 시청방법   헬로TV 채널 25 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DefHH51T3d4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DefHH51T3d4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DefHH51T3d4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LG헬로비전 헬로tv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-24T01:00:04Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "BwAo0l0X9wH9S1G8d7uMcldfiyU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ccruXdqPR6g"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-01T06:48:44Z",
+                "channelId": "UCIkZUiFqcEO07SUmdN61w9w",
+                "title": "[라이나생명 다이렉트] 치아보험 기존 보험료 대비 최대 15.5% 인하!",
+                "description": "2022년 4월 (무)라이나다이렉트치아보험Ⅱ(갱신형) 보험료 인하! 기존 보험료 대비 최대 15.5% 인하 (20세 남, 당사 동일상품 특약 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ccruXdqPR6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ccruXdqPR6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ccruXdqPR6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "라이나생명",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-01T06:48:44Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "1qrfeyEVnbE1-dnb0_-tr4k-7bY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kCeF8asucYc"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-09T06:30:26Z",
+                "channelId": "UCAkww1dLYNyoz2fdlJZV3Qg",
+                "title": "[PAGODA]파고다 딜리버리 인강 토익 현금환급반💸",
+                "description": "올 겨울엔 어학 맛집   파고다인강 토익 현급 환급반! 현생 살기도 버거운데 현강은 어떻게 듣냐구? 집에서 프리~하게 들을 수 있는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kCeF8asucYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kCeF8asucYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kCeF8asucYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PAGODA파고다",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-09T06:30:26Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "FmiX_dbvIrU4Uq0U3nt3Q3FcvEE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J4FTpoK1LSY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T04:53:03Z",
+                "channelId": "UCfSWmz1GatQ_90tmHwSm1hg",
+                "title": "Succulent DIY Ideas #Shorts #Succulent #多肉植物  #다육이들 #Suculentas",
+                "description": "Beautiful ideas for your succulent garden #Shorts #Succulent #多肉植物 #다육이들 #Suculentas.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J4FTpoK1LSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J4FTpoK1LSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J4FTpoK1LSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vườn sen đá",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T04:53:03Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "iQWAmElb5NCIuSoO1ZJ2bOb_y1k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yUz5Wi-KqQU"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-17T12:00:27Z",
+                "channelId": "UCAP8OK0GHFbnL5OkY3j04Xw",
+                "title": "깍지끼지마아악!!!🤬 부자 상간녀를 만난 남편.. 정신 차려... I 애로부부(Doomed Marriage) I 매주 토요일 밤 11시",
+                "description": "부자 상간녀들과 불륜에 빠지게 된 남편들 하지만 그녀들이 유부남을 만나는 이유는?! 금기를 깬 리얼 부부들의 속사정이 펼쳐진다!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yUz5Wi-KqQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yUz5Wi-KqQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yUz5Wi-KqQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ENA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-17T12:00:27Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "k44KbWzLXgEfuNT9gOsmoDMX2kU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xUsNYFShbD4"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-25T07:28:19Z",
+                "channelId": "UCbIt3ZZthkNtmWqHix53uaQ",
+                "title": "온더그린_집편(광동온더CC 자막 고지)",
+                "description": "완벽한 라운딩을 위한 꾸준한 연습만이 살길이다! ⛳ 연습도 늘 잘 치고 싶지만 마음처럼 따라주지 않을 때, 잘하고 싶으니까 더! 골프에 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xUsNYFShbD4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xUsNYFShbD4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xUsNYFShbD4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "광동제약",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-25T07:28:19Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "0LyNpVfi9dvNqYMQCHnHYPaHgp0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AWSSBYhB0J8"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-05T01:03:48Z",
+                "channelId": "UCmECojbGEIBckSAnWl5h2LQ",
+                "title": "축구도 수영도 잘하는 이동국의 새로운 물회오리! 🏊",
+                "description": "안전한 체육시설이 모두 모인 올림픽공원에 이동방송국이 모였다? 이동방송국 오늘운동은 EP01 수영편! 체육시설 안전, 국민체육 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AWSSBYhB0J8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AWSSBYhB0J8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AWSSBYhB0J8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KSPO국민체육진흥공단",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-05T01:03:48Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "cDTfl64yPYFG22kuk2kappgGf1I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gz3DOsA7Nz8"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-13T08:02:33Z",
+                "channelId": "UCIkZUiFqcEO07SUmdN61w9w",
+                "title": "우리 할머니가 설마..",
+                "description": "라벨지가 붙여진 반찬 통.. 내 눈물버튼..ㅠㅠ 당신의 건강에 진심이니까, 라이나생명❤ #라이나생명 #웹드라마 #자식세끼 #짧은대본 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gz3DOsA7Nz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gz3DOsA7Nz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gz3DOsA7Nz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "라이나생명",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-13T08:02:33Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "C7IDCNO-PfnsBqIiKdkHFZ6QbI8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NsV2RSxYjW0"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-05T08:21:48Z",
+                "channelId": "UCBzWK8pO62qviwa0yPQWo3w",
+                "title": "[3대 권리구제 제도] 처분의 재심사",
+                "description": "국민의 권리를 지키는 '행정기본법'   '처분의 재심사'에 대해 30초 만에 알아보세요!🕵️\u200d♂️ #법제처 #권익구제 #30초 #행정 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NsV2RSxYjW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NsV2RSxYjW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NsV2RSxYjW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "대한민국법제처",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-05T08:21:48Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "ZA6w6x0vKEt7UAkzscm6pyZdUvM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N3ZuRbhcKVY"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-09T06:30:27Z",
+                "channelId": "UCAkww1dLYNyoz2fdlJZV3Qg",
+                "title": "[PAGODA]과몰입 밀착티칭 토익 딜리버리 점수보장반 🎯",
+                "description": "의지박약 휴먼들도   파고다 딜리버리와 함께면 올겨울 목표점수 달성! 이불밖은 위험해! 토익 강의도 이불 속으로 딜리버리~ 과몰입 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N3ZuRbhcKVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N3ZuRbhcKVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N3ZuRbhcKVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PAGODA파고다",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-09T06:30:27Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "uIo_JLUB-Kg9dcqnOPgik5SFgYk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Iiukq_ilT0Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-11T15:00:01Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "Ep4 It‘s on you and I | BTS: Burn the Stage",
+                "description": "Can the show go on? BTS begin to wrap up their South America tour. Day-by-day, we see how the members passionately discuss ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-11T15:00:01Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "WK3y6skL4WNY6SewFmn-FuTPd5M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K43ms2soKaM"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-21T04:00:11Z",
+                "channelId": "UCU27k-Lw3t0Tag-GH0i4f7w",
+                "title": "[나는솔로 55회 예고] 솔로 나라 9기에 찾아온 격동의 날! 지금 이곳은 난장판...?!ㅣ나는솔로 EP.55ㅣSBSPLUSㅣ매주 수요일 밤 10시 30분 방송",
+                "description": "SBSPLUS 매주 수요일 밤 10시 30분 [나는 SOLO]❣ #나는솔로 #나는_솔로 #SBSPLUS #SBS플러스 #스플스 #ENAPLAY #공동 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K43ms2soKaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K43ms2soKaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K43ms2soKaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS Plus",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-21T04:00:11Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "KB3J98sfmpnNxZazVi0gOmVZkR8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8nonj3ki_GU"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-12T00:18:10Z",
+                "channelId": "UC8J8ZN2Wl6jPsdgCvRmXi4g",
+                "title": "[2022 다니엘기도회_Teaser Ver 03] #회복",
+                "description": "다니엘기도회 생방송 및 동영상물에 대한 저작권 공지] 다니엘기도회의 저작권은 다니엘기도회에 있습니다. 다니엘기도회 외에 각 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8nonj3ki_GU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8nonj3ki_GU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8nonj3ki_GU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "21일간 열방과 함께하는 다니엘기도회",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-12T00:18:10Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "FImJBh6bwCUAiolzam0GfsRqlXc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UgZTJe_-LHo"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-20T10:00:17Z",
+                "channelId": "UCYIxlZxTQvixNihWV31-fqA",
+                "title": "조니워커 블루와 부산국제영화제 그리고 마리끌레르가 한국 영화의 미래를 응원하는 마음을 담아낸 캠페인 ‘DEPTH OF BLUE’.",
+                "description": "마리끌레르 #조니워커블루 #부산국제영화제 조니워커 블루와 부산국제영화제 그리고 마리끌레르가 한국 영화의 미래를 응원하는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UgZTJe_-LHo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UgZTJe_-LHo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UgZTJe_-LHo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Claire Korea",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-20T10:00:17Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "SYV0mrDsQ-jLi9OMstSdfUtrZdg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ziGYrDGAZj0"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-15T23:00:12Z",
+                "channelId": "UCym5538xAEEppbridXozfgw",
+                "title": "[젠틀맨] 싹 털어드린다더니 내 맘까지 싹 털렸읍니다..ㅣ캐릭터 영상",
+                "description": "품위있게, 영리하게, 깔끔하게! 잡고 잡히는 젠틀맨 3인의 #캐릭터영상 공개! 올 연말 유일무이 범죄 오락 영화 #젠틀맨 12월 28일 극장 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ziGYrDGAZj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ziGYrDGAZj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ziGYrDGAZj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "wavve 웨이브",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-15T23:00:12Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "8HCQEJDwe7lYKVbucE8DrBdQGmY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9Shb6up5tVU"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-04T15:52:13Z",
+                "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+                "title": "I made a phone case for $0.",
+                "description": "shorts #technology #iphone I spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Shb6up5tVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Shb6up5tVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Shb6up5tVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mrwhosetheboss",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-04T15:52:13Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "opTuiMGWLPFZJBaUzJFKJlopXZk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U7sWr4Dp8nA"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-27T01:16:12Z",
+                "channelId": "UCmkkFJIalgnWovxFigYK2EA",
+                "title": "NH농협은행의 특별한 사랑법❤️ #1 금융을 넘어 생활까지 케어! | 브랜드 필름",
+                "description": "'온정과 진심을 담은 금융' NH농협은행이 공개하는 특별한 사랑법 6가지 중 첫번째, 금융을 넘어 생활까지 케어!❤️ ✓ NH마이데이터 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U7sWr4Dp8nA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U7sWr4Dp8nA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U7sWr4Dp8nA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NH농협은행",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-27T01:16:12Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "aQdpt01049y0DpniCIYIyrD_HyI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_612dD---7s"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-30T02:39:26Z",
+                "channelId": "UCfSWmz1GatQ_90tmHwSm1hg",
+                "title": "Cute cactus planter | Chậu xương rồng dễ thương #shorts #succulents #diy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_612dD---7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_612dD---7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_612dD---7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vườn sen đá",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-30T02:39:26Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "w7X_6xHjL4w3cJzhmJg9qpf_hYM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2RE8GV-Ld6Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-04T05:31:16Z",
+                "channelId": "UC960xfXepXPsJ8HHePGvAKw",
+                "title": "[알려줘! 박기자] 집에서 쉽게 따라할 수 있는 맨몸운동 ㅣ홈 트레이닝 &amp; 식습관 꿀팁 전수!",
+                "description": "박기자의 오늘의 취재 내용은! 홈 트레이닝 & 식습관 꿀팁 전수!   집에서 쉽게 따라할 수 있는 맨몸운동부터 식습관 관련 정보까지!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2RE8GV-Ld6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2RE8GV-Ld6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2RE8GV-Ld6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "인천광역시",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-04T05:31:16Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "2AsP-N6v-iAO7hgROkKDgx_MkFY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cWGVjORbPnw"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-05T01:50:22Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "대형 정찰풍선 美 상공 출현 ‘발칵’…中 “파악 중, 신중해야”/미 국무 “정찰 풍선”에 방중 연기…중 “기상 관측용”/[이슈] 2023년 2월 3일(금)/KBS",
+                "description": "미국 국방부가 자국 영공에서 발견된 중국 정찰 위성을 전투기를 동원해 대서양 상공에서 격추했습니다. 미국에서는 하늘에 거대한 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cWGVjORbPnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cWGVjORbPnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cWGVjORbPnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-05T01:50:22Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "vbNHSc_H_UK5xMStxeqXsBInai4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yZdd8vQJ_ts"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-05T00:00:23Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[자막뉴스] 초콜릿이라던 택배 상자... 포장지 뜯고 &#39;기겁&#39;/ KBS 2023.02.05.",
+                "description": "테이프로 꽁꽁 싸맨 택배 박스를 열자, 포장도 뜯지 않은 초콜릿과 영양제, 커피가 나옵니다. 영양제 통에는 영양제 대신 향정신성 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yZdd8vQJ_ts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yZdd8vQJ_ts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yZdd8vQJ_ts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-05T00:00:23Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "NX4iYCLLdTa-iRWYO4ibzTpPgaw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jZWyIUUd2y8"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-27T23:09:39Z",
+                "channelId": "UCchJJBeIJg9WPHWhk3uqjyg",
+                "title": "[박은빈X비상교육 온리원] 대한민국 메타인지 스위치 ON! (TVC 런칭편 15초)",
+                "description": "비상교육 온리원 오늘의 공부가 보내는 SOS에 단 하나의 답이 켜집니다 이제 누구라도 공부머리가 트일 수 있도록! 대한민국 메타인지 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jZWyIUUd2y8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jZWyIUUd2y8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jZWyIUUd2y8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "비상교육 온리원초등",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-27T23:09:39Z"
+            }
+        }
+    ]
+}

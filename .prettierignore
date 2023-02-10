@@ -1,0 +1,9 @@
+# Ignore artifacts:
+appspec
+node_modules
+public
+.next
+
+# Ignore all HTML files:
+*.html
+*.sh
