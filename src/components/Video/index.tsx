@@ -23,7 +23,7 @@ const Video = (props: Props) => {
         </div>
         <h1 className='text-2xl'>{title}</h1>
         <ChannelInfo channelId={channelId} channelTitle={channelTitle}></ChannelInfo>
-        <pre>{description}</pre>
+        <span>{description}</span>
       </article>
     </section>
   );
