@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
-import { Link, useNavigate, useParams } from 'react-router-dom';
-import { IoIosSearch, IoLogoYoutube } from 'react-icons/io';
+import React, { useEffect, useState } from 'react';
+import { Link, useParams, useNavigate } from 'react-router-dom';
+import { IoLogoYoutube, IoIosSearch } from 'react-icons/io';
 import { VideosSearchParams } from 'models/videos/VideoModel';
 
 const Navbar = () => {
   const params = useParams<VideosSearchParams>();
-  const [searchWord, setSearchWord] = useState(params.searchWord);
+  const [searchWord, setSearchWord] = useState(params.searchWord ?? '');
   const navigate = useNavigate();
 
   const handleSearchWordChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -17,9 +17,13 @@ const Navbar = () => {
     navigate(`/videos/${searchWord}`);
   };
 
+  useEffect(() => {
+    setSearchWord(params.searchWord ?? '');
+  }, [params.searchWord]);
+
   return (
-    <nav className='flex pt-5 pb-5 gap-2  mb-5 text-xl border-b border-gray-700'>
-      <Link to='/' className='flex items-center'>
+    <nav className='flex pt-5 pb-5 gap-2 mb-5 text-xl border-b border-gray-700'>
+      <Link to='/' className='flex items-center cursor-pointer'>
         <IoLogoYoutube className=' text-purple-900 mr-2' />
         <span className=' text-white font-bold'>Youtube Clone</span>
       </Link>
