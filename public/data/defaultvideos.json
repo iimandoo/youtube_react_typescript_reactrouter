@@ -244,39 +244,6 @@
             }
         }, {
             "kind": "youtube#searchResult",
-            "etag": "iQWAmElb5NCIuSoO1ZJ2bOb_y1k",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "yUz5Wi-KqQU"
-            },
-            "snippet": {
-                "publishedAt": "2022-01-17T12:00:27Z",
-                "channelId": "UCAP8OK0GHFbnL5OkY3j04Xw",
-                "title": "깍지끼지마아악!!!🤬 부자 상간녀를 만난 남편.. 정신 차려... I 애로부부(Doomed Marriage) I 매주 토요일 밤 11시",
-                "description": "부자 상간녀들과 불륜에 빠지게 된 남편들 하지만 그녀들이 유부남을 만나는 이유는?! 금기를 깬 리얼 부부들의 속사정이 펼쳐진다!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yUz5Wi-KqQU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yUz5Wi-KqQU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yUz5Wi-KqQU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ENA",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-01-17T12:00:27Z"
-            }
-        }, {
-            "kind": "youtube#searchResult",
             "etag": "k44KbWzLXgEfuNT9gOsmoDMX2kU",
             "id": {
                 "kind": "youtube#video",

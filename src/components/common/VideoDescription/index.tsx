@@ -10,7 +10,7 @@ export default function VideoDescription(props: Props) {
 
   return (
     <>
-      <div className='flex flex-col hover:text-purple-100'>
+      <div className='flex flex-col hover:text-purple-100 mt-2'>
         <span className='font-bold line-clamp-2'>{title}</span>
         <span>{channelTitle}</span>
         <span>

@@ -24,8 +24,8 @@ const Navbar = () => {
   return (
     <nav className='flex pt-5 pb-5 gap-2 mb-5 text-xl border-b border-gray-700'>
       <Link to='/' className='flex items-center cursor-pointer'>
-        <IoLogoYoutube className=' text-purple-900 mr-2' />
-        <span className=' text-white font-bold'>Youtube Clone</span>
+        <IoLogoYoutube className='text-purple-800 mr-2 text-3xl' />
+        <span className=' text-white font-bold hidden sm:block'>Youtube Clone</span>
       </Link>
       <form onSubmit={handleSubmit} className='flex-auto flex justify-center'>
         <input

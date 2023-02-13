@@ -21,7 +21,7 @@ const Video = (props: Props) => {
             title='YouTube video player'
             className='absolute inset-0 w-full aspect-video border-none'></iframe>
         </div>
-        <h1 className='text-2xl'>{title}</h1>
+        <h1 className='text-xl'>{title}</h1>
         <ChannelInfo channelId={channelId} channelTitle={channelTitle}></ChannelInfo>
         <span>{description}</span>
       </article>
