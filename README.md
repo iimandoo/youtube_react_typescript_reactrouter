@@ -1,4 +1,4 @@
-# Youtube clone project
+# Youtube clone CSR project
 
 https://euneunyoutube.netlify.app/
 
